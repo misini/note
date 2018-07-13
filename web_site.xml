@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<web_site>
+		<name ico="qiy">爱奇艺</name>
+		<url>http://www.iqiyi.com/</url>
+	</web_site>
+	<web_site>
+		<name ico="tenxun">腾讯</name>
+		<url>https://v.qq.com</url>
+	</web_site>
+	<web_site>
+		<name ico="youku">优酷</name>
+		<url>http://www.youku.com//</url>
+	</web_site>
+</resources>
