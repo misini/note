@@ -12,4 +12,8 @@
 		<name icon="youku">优酷</name>
 		<url>http://www.youku.com//</url>
 	</web_site>
+	<web_site>
+		<name icon="youk">优</name>
+		<url>http://www.youku.com//</url>
+	</web_site>
 </resources>
